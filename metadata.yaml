@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17133#Mildred-s-InheritanceJust-Her-Way--Ann-s-Own-Way
 gutenberg_issued: '2005-11-22'
 gutenberg_type: Text
 identifiers:
